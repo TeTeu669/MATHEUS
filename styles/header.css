@@ -1,5 +1,5 @@
 .cabecalho{
-    background-color: var(--cor-do-cabecalho);
+    background-color: var(--cor-cabecalho);
     padding: 1em;
     }
     .container{
@@ -25,7 +25,7 @@
       
     .container_titulo {
 
-        font-weigth: 400;
+        font-weight: 400;
         display: block;
     }
 
@@ -36,6 +36,7 @@
      .container_frase{ 
         padding-left: 5em;
         font-size: 20px;
-        display: block:
+        display: block;
+
      }
 }
